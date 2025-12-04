@@ -1,0 +1,6 @@
+*__pycache__*
+desktop.ini
+.vscode
+
+adventofcode/**/example.txt
+adventofcode/**/input.txt
