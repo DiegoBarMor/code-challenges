@@ -15,7 +15,6 @@ def iter_v0(data):
 def iter_v1(data):
     nums = []
     for column in reversed(tuple(zip(*data))):
-        # n = ''.join(c for c in column[:-1] if c != ' ') ### safer...
         n = ''.join(column[:-1]).strip()
         if not n:
             nums = []; continue
