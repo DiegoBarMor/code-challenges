@@ -2,5 +2,5 @@
 desktop.ini
 .vscode
 
-adventofcode/**/example.txt
+adventofcode/**/example*.txt
 adventofcode/**/input.txt
