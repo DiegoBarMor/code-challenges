@@ -2,6 +2,7 @@
 desktop.ini
 .vscode
 
+adventofcode/todo/
 adventofcode/**/example*.txt
 adventofcode/**/input.txt
 adventofcode/**/instructions.txt
