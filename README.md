@@ -31,10 +31,10 @@
 
 ### 2016
   * (XX) day 01
-  * (  ) day 02
-  * (  ) day 03
-  * (  ) day 04
-  * (  ) day 05
+  * (XX) day 02
+  * (XX) day 03
+  * (XX) day 04
+  * (XX) day 05
   * (  ) day 06
   * (  ) day 07
   * (  ) day 08
