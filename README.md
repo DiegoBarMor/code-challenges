@@ -35,11 +35,11 @@
   * (XX) day 03
   * (XX) day 04
   * (XX) day 05
-  * (  ) day 06
-  * (  ) day 07
-  * (  ) day 08
-  * (  ) day 09
-  * (  ) day 10
+  * (XX) day 06
+  * (XX) day 07
+  * (XX) day 08
+  * (XX) day 09
+  * (XX) day 10
   * (  ) day 11
   * (  ) day 12
   * (  ) day 13
