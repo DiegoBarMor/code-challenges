@@ -11,15 +11,15 @@
   * (XX) day 06
   * (XX) day 07
   * (XX) day 08
-  * (  ) day 09
-  * (  ) day 10
-  * (  ) day 11
-  * (  ) day 12
-  * (  ) day 13
-  * (  ) day 14
-  * (  ) day 15
-  * (  ) day 16
-  * (  ) day 17
+  * (XX) day 09
+  * (XX) day 10
+  * (XX) day 11
+  * (XX) day 12
+  * (XX) day 13
+  * (XX) day 14
+  * (XX) day 15
+  * (XX) day 16
+  * (XX) day 17
   * (  ) day 18
   * (  ) day 19
   * (  ) day 20
